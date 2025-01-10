@@ -99,4 +99,4 @@ menuList.forEach((item, index) => {
 
 menu.appendChild(cardContainer);
 
-export { menu, menuList };
+export { menu };

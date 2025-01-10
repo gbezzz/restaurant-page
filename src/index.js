@@ -1,9 +1,7 @@
 import { home } from "./home";
-import { menu, menuList } from "./menu";
+import { menu } from "./menu";
 import { about } from "./about";
 import "./header.css";
-
-console.log(menuList);
 
 const NavController = (function () {
   const pageContent = document.querySelector("#content");
