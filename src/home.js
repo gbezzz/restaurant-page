@@ -53,7 +53,6 @@ joinUs.style.border = " solid white ";
 joinUs.style.borderRadius = "15px";
 joinUs.innerHTML = `<h2>Join Us for an Unforgettable Experience</h2><ul><li>Dine-In: Relax and enjoy a delicious meal in our comfortable dining space.</li><li>Takeout & Delivery: Craving our dishes at home? Order your favorites for takeout or delivery.</li><li>Special Events: Hosting a special occasion? Let us help you plan the perfect event with tailored catering options.
 </li></ul><h2>Reserve Your Table Today!</h2><p>Booking a table is easy. Use our convenient online reservation system or call us directly to reserve your spot.
-
 </p><h2>Follow Us
 
 </h2><p>Stay connected on social media for the latest updates, specials, and events!

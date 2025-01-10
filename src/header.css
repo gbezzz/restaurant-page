@@ -1,5 +1,6 @@
 html {
   font-family: "Courier New", Courier, monospace;
+  font-style: italic;
 }
 
 body {
@@ -20,6 +21,7 @@ header {
 nav {
   display: flex;
   gap: 10px;
+  padding-left: 40px;
 }
 nav span {
   color: white;
@@ -51,6 +53,10 @@ nav button {
   background-color: #9a2f2f;
   border: #d9bd8c;
   border-radius: 5px 5px 0 0;
+}
+
+nav button:active {
+  background-color: black;
 }
 
 #content {
